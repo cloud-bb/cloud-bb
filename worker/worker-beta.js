@@ -1,8 +1,8 @@
 /**
-* A Script Redesigned by SOURCE-CODE.MY.ID
+* A Script Redesigned by CLOUD B-B
 */
 const authConfig = {
-	"siteName": "G-DRIVE", // Website name
+	"siteName": "CLOUD B-B", // Website name
 	"client_id": "58094879805-4654k2k5nqdid5bavft7fvea5u9po0t1.apps.googleusercontent.com",
 	"client_secret": "ZNPZ-vS6N9Zjsyb_sNMZmXHL",
 	"refresh_token": "", // Authorize token
